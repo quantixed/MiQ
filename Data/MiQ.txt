@@ -1,0 +1,26 @@
+Country	Attendees
+Argentina	0.166666667
+Australia	0.333333333
+Canada	7.666666667
+China	1
+Czechia	1.833333333
+Denmark	0.5
+Finland	0.166666667
+France	7.333333333
+Germany	10.16666667
+Hong Kong SAR	0.166666667
+Hungary	0.166666667
+India	10.2
+Ireland	0.5
+Israel	0.333333333
+Italy	0.666666667
+Japan	0.5
+Netherlands	7.833333333
+Portugal	1.666666667
+Singapore	2.166666667
+Spain	0.833333333
+Sweden	3.5
+Switzerland	0.5
+UAE	0.833333333
+UK	54
+USA	68.33333333

@@ -1,0 +1,197 @@
+Key	Replace	Regex
+Argentina	Argentina	.*Argentina.*
+Australia	Australia	.*Australia.*
+Austria	Austria	.*Austria.*
+Belgium	Belgium	.*Belgium.*
+Brazil	Brazil	.*Brazil.*
+Canada	Canada	.*Canada.*
+Chile	Chile	.*Chile.*
+China	China	.*China.*
+Czech	Czechia	.*Czech.*
+Denmark	Denmark	.*Denmark.*
+Egypt	Egypt	.*Egypt.*
+Finland	Finland	.*Finland.*
+France	France	.*France.*
+Germany	Germany	.*Germany.*
+Greece	Greece	.*Greece.*
+HK	Hong Kong SAR	^HK.*
+Kong	Hong Kong SAR	.*Kong.*
+Hungary	Hungary	.*Hungary.*
+India	India	.*India.*
+Iran	Iran	.*Iran.*
+Ireland	Ireland	.*Ireland.*
+Israel	Israel	.*Israel.*
+Italy	Italy	.*Italy.*
+Japan	Japan	.*Japan.*
+Nagoya	Japan	.*Nagoya.*
+Malaysia	Malaysia	.*Malaysia.*
+Mexico	Mexico	.*Mexico.*
+Netherlands	Netherlands	.*Netherlands.*
+New Jersey	New Jersey	.*New Jersey.*
+New Zealand	New Zealand	.*New Zealand.*
+Norway	Norway	.*Norway.*
+Poland	Poland	.*Poland.*
+Portugal	Portugal	.*Portugal.*
+Russia	Russia	.*Russia.*
+Singapore	Singapore	.*Singapore.*
+Slovenia	Slovenia	.*Slovenia.*
+South Africa	South Africa	.*South Africa.*
+Korea	South Korea	.*Korea.*
+South Korea	South Korea	.*South Korea.*
+Spain	Spain	.*Spain.*
+Sweden	Sweden	.*Sweden.*
+Switzerland	Switzerland	.*Switzerland.*
+Taiwan	Taiwan	.*Taiwan.*
+Texas	Texas	.*Texas.*
+Thailand	Thailand	.*Thailand.*
+Turkey	Turkey	.*Turkey.*
+United Kingdom	UK	.*United Kingdom.*
+UK	UK	.*UK.*
+U.K	UK	.*U.K.*
+Ukraine	Ukraine	.*Ukraine.*
+USA	USA	.*USA.*
+United States	USA	.*United States.*
+US	USA	.*US.*
+Alabama	USA	.*Alabama.*
+Alaska	USA	.*Alaska.*
+Arizona	USA	.*Arizona.*
+Arkansas	USA	.*Arkansas.*
+California	USA	.*California.*
+Colorado	USA	.*Colorado.*
+Connecticut	USA	.*Connecticut.*
+Delaware	USA	.*Delaware.*
+Florida	USA	.*Florida.*
+Georgia	USA	.*Georgia.*
+Hawaii	USA	.*Hawaii.*
+Idaho	USA	.*Idaho.*
+Illinois	USA	.*Illinois.*
+Indiana	USA	.*Indiana.*
+Iowa	USA	.*Iowa.*
+Kansas	USA	.*Kansas.*
+Kentucky	USA	.*Kentucky.*
+Louisiana	USA	.*Louisiana.*
+Maine	USA	.*Maine.*
+Maryland	USA	.*Maryland.*
+Massachusetts	USA	.*Massachusetts.*
+Michigan	USA	.*Michigan.*
+Minnesota	USA	.*Minnesota.*
+Mississippi	USA	.*Mississippi.*
+Missouri	USA	.*Missouri.*
+Montana	USA	.*Montana.*
+Nebraska	USA	.*Nebraska.*
+Nevada	USA	.*Nevada.*
+New Hampshire	USA	.*New Hampshire.*
+New Jersey	USA	.*New Jersey.*
+New Mexico	USA	.*New Mexico.*
+New York	USA	.*New York.*
+North Carolina	USA	.*North Carolina.*
+North Dakota	USA	.*North Dakota.*
+Ohio	USA	.*Ohio.*
+Oklahoma	USA	.*Oklahoma.*
+Oregon	USA	.*Oregon.*
+Pennsylvania	USA	.*Pennsylvania.*
+Rhode Island	USA	.*Rhode Island.*
+South Carolina	USA	.*South Carolina.*
+South Dakota	USA	.*South Dakota.*
+Tennessee	USA	.*Tennessee.*
+Texas	USA	.*Texas.*
+Utah	USA	.*Utah.*
+Vermont	USA	.*Vermont.*
+Virginia	USA	.*Virginia.*
+Washington	USA	.*Washington.*
+West Virginia	USA	.*West Virginia.*
+Wisconsin	USA	.*Wisconsin.*
+Wyoming	USA	.*Wyoming.*
+AL	USA	^AL.*
+AK	USA	^AK.*
+AZ	USA	^AZ.*
+AR	USA	^AR.*
+CA	USA	^CA.*
+CO	USA	^CO.*
+CT	USA	^CT.*
+DE	USA	^DE.*
+FL	USA	^FL.*
+GA	USA	^GA.*
+HI	USA	^HI.*
+ID	USA	^ID.*
+IL	USA	^IL.*
+IN	USA	^IN.*
+IA	USA	^IA.*
+KS	USA	^KS.*
+KY	USA	^KY.*
+LA	USA	^LA.*
+ME	USA	^ME.*
+MD	USA	^MD.*
+MA	USA	^MA.*
+MI	USA	^MI.*
+MN	USA	^MN.*
+MS	USA	^MS.*
+MO	USA	^MO.*
+MT	USA	^MT.*
+NE	USA	^NE.*
+NV	USA	^NV.*
+NH	USA	^NH.*
+NJ	USA	^NJ.*
+NM	USA	^NM.*
+NY	USA	^NY.*
+NC	USA	^NC.*
+ND	USA	^ND.*
+OH	USA	^OH.*
+OK	USA	^OK.*
+OR	USA	^OR.*
+PA	USA	^PA.*
+RI	USA	^RI.*
+SC	USA	^SC.*
+SD	USA	^SD.*
+TN	USA	^TN.*
+TX	USA	^TX.*
+UT	USA	^UT.*
+VT	USA	^VT.*
+VA	USA	^VA.*
+WA	USA	^WA.*
+WV	USA	^WV.*
+WI	USA	^WI.*
+WY	USA	^WY.*
+DE	USA	^DE.*
+FL	USA	^FL.*
+GA	USA	^GA.*
+HI	USA	^HI.*
+ID	USA	^ID.*
+IL	USA	^IL.*
+IN	USA	^IN.*
+IA	USA	^IA.*
+KS	USA	^KS.*
+KY	USA	^KY.*
+LA	USA	^LA.*
+ME	USA	^ME.*
+MD	USA	^MD.*
+MA	USA	^MA.*
+MI	USA	^MI.*
+MN	USA	^MN.*
+MS	USA	^MS.*
+MO	USA	^MO.*
+MT	USA	^MT.*
+NE	USA	^NE.*
+NV	USA	^NV.*
+NH	USA	^NH.*
+NJ	USA	^NJ.*
+NM	USA	^NM.*
+NY	USA	^NY.*
+NC	USA	^NC.*
+ND	USA	^ND.*
+OH	USA	^OH.*
+OK	USA	^OK.*
+OR	USA	^OR.*
+PA	USA	^PA.*
+RI	USA	^RI.*
+SC	USA	^SC.*
+SD	USA	^SD.*
+TN	USA	^TN.*
+TX	USA	^TX.*
+UT	USA	^UT.*
+VT	USA	^VT.*
+VA	USA	^VA.*
+WA	USA	^WA.*
+WV	USA	^WV.*
+WI	USA	^WI.*
+WY	USA	^WY.*
